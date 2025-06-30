@@ -32,9 +32,9 @@
         "path": "./themes/astrus-midnight-color-theme.json"
       },
       {
-        "label": "Astrus Black",
+        "label": "Astrus Nebula",
         "uiTheme": "vs-dark",
-        "path": "./themes/astrus-black-color-theme.json"
+        "path": "./themes/astrus-nebula-color-theme.json"
       }
     ]
   },
