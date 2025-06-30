@@ -2,30 +2,33 @@
   "name": "Astrus Standard",
   "type": "dark",
   "colors": {
-    "editor.background": "#000000",
+    "editor.background": "#120c15",
     "editor.foreground": "#E0E0E0",
-    "activityBar.background": "#000000",
-    "activityBar.foreground": "#E1BEE7",
-    "sideBar.background": "#000000",
+    "activityBar.background": "#120c15",
+    "activityBar.foreground": "#FF9999",
+    "sideBar.background": "#120c15",
     "sideBar.foreground": "#E0E0E0",
-    "statusBar.background": "#1C2526",
-    "statusBar.foreground": "#E1BEE7",
+    "statusBar.background": "#120c15",
+    "statusBar.foreground": "#FF9999",
     "editorLineNumber.foreground": "#546E7A",
-    "editorLineNumber.activeForeground": "#CE93D8",
-    "editor.selectionBackground": "#3B263B",
-    "editor.selectionHighlightBackground": "#3B263B33",
-    "editorCursor.foreground": "#E1BEE7",
-    "editorHoverWidget.background": "#1C2526",
+    "editorLineNumber.activeForeground": "#26A69A",
+    "editor.selectionBackground": "#263B3B",
+    "editor.selectionHighlightBackground": "#263B3B33",
+    "editorCursor.foreground": "#FF9999",
+    "editorHoverWidget.background": "#120c15",
     "editorHoverWidget.border": "#546E7A",
-    "tab.activeBackground": "#1C2526",
-    "tab.inactiveBackground": "#000000",
-    "tab.activeForeground": "#E1BEE7",
-    "panel.background": "#000000",
+    "tab.activeBackground": "#120c15",
+    "tab.inactiveBackground": "#120c15",
+    "tab.activeForeground": "#FF9999",
+    "tab.inactiveForeground": "#E0E0E0",
+    "panel.background": "#120c15",
     "panel.border": "#546E7A",
-    "terminal.background": "#000000",
+    "terminal.background": "#120c15",
     "terminal.foreground": "#E0E0E0",
-    "titleBar.activeBackground": "#000000",
-    "titleBar.activeForeground": "#E1BEE7"
+    "titleBar.activeBackground": "#120c15",
+    "titleBar.activeForeground": "#FF9999",
+    "titleBar.inactiveBackground": "#120c15",
+    "titleBar.inactiveForeground": "#E0E0E0"
   },
   "tokenColors": [
     {
@@ -37,7 +40,7 @@
     {
       "scope": ["string", "string.quoted"],
       "settings": {
-        "foreground": "#D8BFD8"
+        "foreground": "#26A69A"
       }
     },
     {
@@ -55,19 +58,19 @@
     {
       "scope": ["constant.numeric", "constant.language"],
       "settings": {
-        "foreground": "#E1BEE7"
+        "foreground": "#FF9999"
       }
     },
     {
       "scope": ["entity.name.function", "support.function"],
       "settings": {
-        "foreground": "#DDA0DD"
+        "foreground": "#42A5F5"
       }
     },
     {
       "scope": ["entity.name.type", "support.type", "support.class"],
       "settings": {
-        "foreground": "#F3E5F5"
+        "foreground": "#FF9999"
       }
     }
   ]

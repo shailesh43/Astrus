@@ -5,27 +5,30 @@
     "editor.background": "#0D1117",
     "editor.foreground": "#E0E0E0",
     "activityBar.background": "#0D1117",
-    "activityBar.foreground": "#89CFF0",
+    "activityBar.foreground": "#42A5F5",
     "sideBar.background": "#0D1117",
     "sideBar.foreground": "#E0E0E0",
-    "statusBar.background": "#1C2526",
-    "statusBar.foreground": "#89CFF0",
+    "statusBar.background": "#0D1117",
+    "statusBar.foreground": "#42A5F5",
     "editorLineNumber.foreground": "#546E7A",
-    "editorLineNumber.activeForeground": "#4169E1",
+    "editorLineNumber.activeForeground": "#26A69A",
     "editor.selectionBackground": "#263B5E",
     "editor.selectionHighlightBackground": "#263B5E33",
-    "editorCursor.foreground": "#89CFF0",
-    "editorHoverWidget.background": "#1C2526",
+    "editorCursor.foreground": "#42A5F5",
+    "editorHoverWidget.background": "#0D1117",
     "editorHoverWidget.border": "#546E7A",
-    "tab.activeBackground": "#1C2526",
+    "tab.activeBackground": "#0D1117",
     "tab.inactiveBackground": "#0D1117",
-    "tab.activeForeground": "#89CFF0",
+    "tab.activeForeground": "#42A5F5",
+    "tab.inactiveForeground": "#E0E0E0",
     "panel.background": "#0D1117",
     "panel.border": "#546E7A",
     "terminal.background": "#0D1117",
     "terminal.foreground": "#E0E0E0",
     "titleBar.activeBackground": "#0D1117",
-    "titleBar.activeForeground": "#89CFF0"
+    "titleBar.activeForeground": "#42A5F5",
+    "titleBar.inactiveBackground": "#0D1117",
+    "titleBar.inactiveForeground": "#E0E0E0"
   },
   "tokenColors": [
     {
@@ -37,13 +40,13 @@
     {
       "scope": ["string", "string.quoted"],
       "settings": {
-        "foreground": "#87CEFA"
+        "foreground": "#26A69A"
       }
     },
     {
       "scope": ["keyword", "storage", "storage.type"],
       "settings": {
-        "foreground": "#4169E1"
+        "foreground": "#42A5F5"
       }
     },
     {
@@ -55,19 +58,19 @@
     {
       "scope": ["constant.numeric", "constant.language"],
       "settings": {
-        "foreground": "#89CFF0"
+        "foreground": "#FF9999"
       }
     },
     {
       "scope": ["entity.name.function", "support.function"],
       "settings": {
-        "foreground": "#6495ED"
+        "foreground": "#26A69A"
       }
     },
     {
       "scope": ["entity.name.type", "support.type", "support.class"],
       "settings": {
-        "foreground": "#ADD8E6"
+        "foreground": "#CE93D8"
       }
     }
   ]
