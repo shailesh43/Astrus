@@ -1,0 +1,74 @@
+{
+  "name": "Astrus Midnight",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#0D1117",
+    "editor.foreground": "#E0E0E0",
+    "activityBar.background": "#0D1117",
+    "activityBar.foreground": "#89CFF0",
+    "sideBar.background": "#0D1117",
+    "sideBar.foreground": "#E0E0E0",
+    "statusBar.background": "#1C2526",
+    "statusBar.foreground": "#89CFF0",
+    "editorLineNumber.foreground": "#546E7A",
+    "editorLineNumber.activeForeground": "#4169E1",
+    "editor.selectionBackground": "#263B5E",
+    "editor.selectionHighlightBackground": "#263B5E33",
+    "editorCursor.foreground": "#89CFF0",
+    "editorHoverWidget.background": "#1C2526",
+    "editorHoverWidget.border": "#546E7A",
+    "tab.activeBackground": "#1C2526",
+    "tab.inactiveBackground": "#0D1117",
+    "tab.activeForeground": "#89CFF0",
+    "panel.background": "#0D1117",
+    "panel.border": "#546E7A",
+    "terminal.background": "#0D1117",
+    "terminal.foreground": "#E0E0E0",
+    "titleBar.activeBackground": "#0D1117",
+    "titleBar.activeForeground": "#89CFF0"
+  },
+  "tokenColors": [
+    {
+      "scope": ["comment", "punctuation.definition.comment"],
+      "settings": {
+        "foreground": "#546E7A"
+      }
+    },
+    {
+      "scope": ["string", "string.quoted"],
+      "settings": {
+        "foreground": "#87CEFA"
+      }
+    },
+    {
+      "scope": ["keyword", "storage", "storage.type"],
+      "settings": {
+        "foreground": "#4169E1"
+      }
+    },
+    {
+      "scope": ["variable", "variable.parameter"],
+      "settings": {
+        "foreground": "#E0E0E0"
+      }
+    },
+    {
+      "scope": ["constant.numeric", "constant.language"],
+      "settings": {
+        "foreground": "#89CFF0"
+      }
+    },
+    {
+      "scope": ["entity.name.function", "support.function"],
+      "settings": {
+        "foreground": "#6495ED"
+      }
+    },
+    {
+      "scope": ["entity.name.type", "support.type", "support.class"],
+      "settings": {
+        "foreground": "#ADD8E6"
+      }
+    }
+  ]
+}

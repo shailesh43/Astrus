@@ -1,7 +1,7 @@
 {
   "name": "astrus",
   "displayName": "Astrus",
-  "description": "Astrus is a minimalist dark theme inspired by midnight skies and starlights. It brings clarity and calm to every line of code.",
+  "description": "Astrus is a minimalist dark theme inspired by midnight skies and starlights. It brings clarity and calm to every line of code. Available in Standard (black with baby purple), Midnight (black with royal blue), and Black (pure black with minimal accents).",
   "version": "0.0.1",
   "publisher": "Shailesh Sathe",
   "engines": {
@@ -15,14 +15,26 @@
     "dark theme",
     "minimalist",
     "astrus",
-    "midnight"
+    "black",
+    "midnight blue",
+    "purple"
   ],
   "contributes": {
     "themes": [
       {
-        "label": "Astrus",
+        "label": "Astrus Standard",
         "uiTheme": "vs-dark",
-        "path": "./themes/astrus-color-theme.json"
+        "path": "./themes/astrus-standard-color-theme.json"
+      },
+      {
+        "label": "Astrus Midnight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/astrus-midnight-color-theme.json"
+      },
+      {
+        "label": "Astrus Black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/astrus-black-color-theme.json"
       }
     ]
   },
@@ -30,5 +42,5 @@
     "type": "git",
     "url": "https://github.com/shailesh43/Astrus.git"
   },
-  "icon": "icon.png"
+  "icon": "astrus-icon.png"
 }

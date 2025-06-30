@@ -1,16 +1,18 @@
-# astrus README
+<img src="astrus-icon.png" style  height="80px"></img>
+Astrus is a minimalist dark theme inspired by midnight skies and starlights. It brings clarity and calm to every line of code. Available in three variants: Standard, Midnight, and Black.
 
-## Working with Markdown
+## Variants
+- **Astrus Standard**: Pure black background with baby purple accents for a soft, calming look.
+- **Astrus Midnight**: Near-black background with royal blue accents for a regal, starry vibe.
+- **Astrus Black**: Pure black background with minimal grayscale accents for an ultra-dark experience.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Installation
+1. Open VS Code.
+2. Go to Extensions view (`Ctrl+Shift+X`).
+3. Search for "Astrus" and install.
+4. Select a variant from `File > Preferences > Color Theme` (Astrus Standard, Midnight, or Black).
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+## Screenshots
+![Astrus Standard](screenshot-standard.png)
+![Astrus Midnight](screenshot-midnight.png)
+![Astrus Black](screenshot-black.png)

@@ -1,0 +1,74 @@
+{
+  "name": "Astrus Standard",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#000000",
+    "editor.foreground": "#E0E0E0",
+    "activityBar.background": "#000000",
+    "activityBar.foreground": "#E1BEE7",
+    "sideBar.background": "#000000",
+    "sideBar.foreground": "#E0E0E0",
+    "statusBar.background": "#1C2526",
+    "statusBar.foreground": "#E1BEE7",
+    "editorLineNumber.foreground": "#546E7A",
+    "editorLineNumber.activeForeground": "#CE93D8",
+    "editor.selectionBackground": "#3B263B",
+    "editor.selectionHighlightBackground": "#3B263B33",
+    "editorCursor.foreground": "#E1BEE7",
+    "editorHoverWidget.background": "#1C2526",
+    "editorHoverWidget.border": "#546E7A",
+    "tab.activeBackground": "#1C2526",
+    "tab.inactiveBackground": "#000000",
+    "tab.activeForeground": "#E1BEE7",
+    "panel.background": "#000000",
+    "panel.border": "#546E7A",
+    "terminal.background": "#000000",
+    "terminal.foreground": "#E0E0E0",
+    "titleBar.activeBackground": "#000000",
+    "titleBar.activeForeground": "#E1BEE7"
+  },
+  "tokenColors": [
+    {
+      "scope": ["comment", "punctuation.definition.comment"],
+      "settings": {
+        "foreground": "#546E7A"
+      }
+    },
+    {
+      "scope": ["string", "string.quoted"],
+      "settings": {
+        "foreground": "#D8BFD8"
+      }
+    },
+    {
+      "scope": ["keyword", "storage", "storage.type"],
+      "settings": {
+        "foreground": "#CE93D8"
+      }
+    },
+    {
+      "scope": ["variable", "variable.parameter"],
+      "settings": {
+        "foreground": "#E0E0E0"
+      }
+    },
+    {
+      "scope": ["constant.numeric", "constant.language"],
+      "settings": {
+        "foreground": "#E1BEE7"
+      }
+    },
+    {
+      "scope": ["entity.name.function", "support.function"],
+      "settings": {
+        "foreground": "#DDA0DD"
+      }
+    },
+    {
+      "scope": ["entity.name.type", "support.type", "support.class"],
+      "settings": {
+        "foreground": "#F3E5F5"
+      }
+    }
+  ]
+}

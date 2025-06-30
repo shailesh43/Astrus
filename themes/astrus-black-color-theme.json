@@ -1,0 +1,74 @@
+{
+  "name": "Astrus Black",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#000000",
+    "editor.foreground": "#CCCCCC",
+    "activityBar.background": "#000000",
+    "activityBar.foreground": "#999999",
+    "sideBar.background": "#000000",
+    "sideBar.foreground": "#CCCCCC",
+    "statusBar.background": "#111111",
+    "statusBar.foreground": "#999999",
+    "editorLineNumber.foreground": "#333333",
+    "editorLineNumber.activeForeground": "#666666",
+    "editor.selectionBackground": "#222222",
+    "editor.selectionHighlightBackground": "#22222233",
+    "editorCursor.foreground": "#999999",
+    "editorHoverWidget.background": "#111111",
+    "editorHoverWidget.border": "#333333",
+    "tab.activeBackground": "#111111",
+    "tab.inactiveBackground": "#000000",
+    "tab.activeForeground": "#999999",
+    "panel.background": "#000000",
+    "panel.border": "#333333",
+    "terminal.background": "#000000",
+    "terminal.foreground": "#CCCCCC",
+    "titleBar.activeBackground": "#000000",
+    "titleBar.activeForeground": "#999999"
+  },
+  "tokenColors": [
+    {
+      "scope": ["comment", "punctuation.definition.comment"],
+      "settings": {
+        "foreground": "#333333"
+      }
+    },
+    {
+      "scope": ["string", "string.quoted"],
+      "settings": {
+        "foreground": "#777777"
+      }
+    },
+    {
+      "scope": ["keyword", "storage", "storage.type"],
+      "settings": {
+        "foreground": "#666666"
+      }
+    },
+    {
+      "scope": ["variable", "variable.parameter"],
+      "settings": {
+        "foreground": "#CCCCCC"
+      }
+    },
+    {
+      "scope": ["constant.numeric", "constant.language"],
+      "settings": {
+        "foreground": "#999999"
+      }
+    },
+    {
+      "scope": ["entity.name.function", "support.function"],
+      "settings": {
+        "foreground": "#888888"
+      }
+    },
+    {
+      "scope": ["entity.name.type", "support.type", "support.class"],
+      "settings": {
+        "foreground": "#AAAAAA"
+      }
+    }
+  ]
+}
