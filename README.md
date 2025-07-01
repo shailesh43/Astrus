@@ -1,16 +1,16 @@
 ![Astrus](./astrus-header.png)
 
-A minimalist dark theme for Visual Studio Code, inspired by the serene beauty of midnight skies and starlight. Designed for clarity and comfort, it features a sleek and a carefully curated palette of purple, teal, blue, and peach-pink accents.
+ Minimal dark theme for Visual Studio Code, inspired by the serene beauty of midnight skies and starlight. It is designed carefully with curated palette of purple, teal, blue, and peach-pink accents to create a distraction-free interface that feels as infinite as space itself.
 
 ## Theme Variants
 
-- Astrus Standard: Dark gray-black background (#222222) with minimal purple and peach-pink accents for a high-contrast, ultra-dark experience.
+- Astrus Standard: Dark gray-black background with minimal purple and peach-pink accents for a high-contrast, ultra-dark experience.
 <img src="./demo/astrus-standard.png">
 
-- Astrus Midnight: Deep near-black background (#0D1117) with blue and teal highlights, evoking a starry night.
+- Astrus Midnight: Deep near-black background with blue and teal highlights, evoking a starry night.
 <img src="./demo/astrus-midnight.png">
 
-- Astrus Nebula: Near-black background (#050406) with vibrant purple, teal, blue, and peach-pink accents for a balanced, modern feel.
+- Astrus Nebula: Near-black background with vibrant purple, teal, blue, and peach-pink accents for a balanced, modern feel.
 <img src="./demo/astrus-nebula.png">
 
 ## Installation for VS code
@@ -29,7 +29,7 @@ Feedback and contributions are welcome!
 - Open an issue or pull request at [Astrus](https://github.com/shailesh43/Astrus).
 
 - Share suggestions for improving colors or adding support for additional languages.
-- You can contact here at my [gmail](satheshailesh43@gmail.com).
+- You can contact here at my [Gmail](satheshailesh43@gmail.com).
 
 ## License
 
