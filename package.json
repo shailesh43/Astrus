@@ -1,7 +1,7 @@
 {
   "name": "astrus",
   "displayName": "Astrus",
-  "description": "Astrus is a minimalist dark theme inspired by midnight skies and starlights. It brings clarity and calm to every line of code. Available in Standard (black with baby purple), Midnight (black with royal blue), and Black (pure black with minimal accents).",
+  "description": "Astrus is a minimalist dark theme inspired by midnight skies and starlights. It brings clarity and calm to every line of code. Available in Standard (pure black with minimal accents), Midnight (black with royal blue), and Black (black with baby purple).",
   "version": "0.0.1",
   "publisher": "shailesh43",
   "engines": {
