@@ -302,7 +302,7 @@
         "string.quoted.single"
       ],
       "settings": {
-        "foreground": "#5a8863"
+        "foreground": "#f29e74"
       }
     },
     {
@@ -310,7 +310,7 @@
         "constant.language"
       ],
       "settings": {
-        "foreground": "#5a8863"
+        "foreground": "#f29e74"
       }
     },
     {
