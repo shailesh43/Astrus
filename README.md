@@ -6,7 +6,7 @@
 2. Search for "Astrus" and click Install.
 Select a variant:
 3. Go to File ➩ Preferences ➩ Color Theme or press Ctrl+K, Ctrl+T.
-4. Choose Astrus Standard, Astrus Midnight, or Astrus Black as per your choice!
+4. Choose any suitable theme among them as per your need!
 
 
 ## Contribute
