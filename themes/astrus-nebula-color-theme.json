@@ -283,7 +283,7 @@
         "constant.other.symbol"
       ],
       "settings": {
-        "foreground": "#5a8863"
+        "foreground": "#96c565"
       }
     },
     {
@@ -360,7 +360,7 @@
         "string.quoted.single"
       ],
       "settings": {
-        "foreground": "#5a8863"
+        "foreground": "#e6c384"
       }
     },
     {
